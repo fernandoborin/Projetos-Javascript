@@ -28,6 +28,6 @@ cars = ([{car}, {car1}])
 
 console.log(cars[0])
 
-console.log(a); // A resposta será undefined, pois a variável a só
+console.log(a); // A resposta será undefined, pois a variável "a" só
 var a = 1;      // será definida na próxima linha
 
